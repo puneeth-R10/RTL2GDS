@@ -19,7 +19,10 @@ This repository documents my **week-by-week progress** with tasks inside each we
 </div>
 
 ---
-## 📅 Week 0 
+
+
+
+## 📊 IC Design and Fabrication Flowchart
 
 ---
 
